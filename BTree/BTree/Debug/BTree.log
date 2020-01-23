@@ -1,0 +1,3 @@
+﻿  Heap.cpp
+f:\c#\btree\btree\heap.cpp(19): warning C4042: 'data' : has bad storage class
+  BTree.vcxproj -> F:\C#\BTree\Debug\BTree.exe
